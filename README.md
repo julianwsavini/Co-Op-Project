@@ -4,7 +4,7 @@ As code belonging to the company is private, I am not able to share it here.  Ho
 
 I was tasked with the redesign of one of their products, iPurchase. This frontend was built using Material Design Bootstrap. There are loads of features within this UI, such as dynamic field labels, tabs which transform into an accordion when the screen size is small, and tables that change layout, depending upon screen size. iPurchase underwent under many, many iterations. 
 
-Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend using ReactJS.
+Until May, I am working part-time for ISS Group, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend using ReactJS.
 
 Tech Stack:
 HTML
