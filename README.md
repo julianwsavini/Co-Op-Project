@@ -2,7 +2,7 @@
 
 Since I cannot share the code I product for my company, as it is private, I was granted permission to share some photos of the frontend I built.
 
-I was tasked to redesign one of their products, iPurchase, a new frontend with Material Design Bootstrap. There are loads of feature within this UI, such as field labels are dynamic, the tabs transform into an accordion when the screen size is small, and the tables change layout when the screen size is small as well. iPurchase went under lots, and lots of iterations. 
+I was tasked to redesign one of their products, iPurchase, a new frontend with Material Design Bootstrap. There are loads of features within this UI, such as field labels are dynamic, the tabs transform into an accordion when the screen size is small, and the tables change layout when the screen size is small as well. iPurchase went under lots, and lots of iterations. 
 
 Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight on what works with our frontend, and what doesn't. I will additionally be rebuilding the frontend with ReactJS.
 
