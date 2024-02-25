@@ -1,10 +1,10 @@
 # Co-Op-Project
 
-Since I cannot share the code I product for my company, as it is private, I was granted permission to share some photos of the frontend I built.
+As code belonging to the company is private, I am not able to share it here.  However, I was granted permission to share some photos of the frontend I built.
 
-I was tasked to redesign one of their products, iPurchase, a new frontend with Material Design Bootstrap. There are loads of features within this UI, such as field labels are dynamic, the tabs transform into an accordion when the screen size is small, and the tables change layout when the screen size is small as well. iPurchase went under lots, and lots of iterations. 
+I was tasked with the redesign of one of their products, iPurchase. This frontend was built using Material Design Bootstrap. There are loads of features within this UI, such as dynamic field labels, tabs which transform into an accordion when the screen size is small, and tables that change layout, depending upon screen size. iPurchase underwent under many, many iterations. 
 
-Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight on what works with our frontend, and what doesn't. I will additionally be rebuilding the frontend with ReactJS.
+Until May, I am working part-time, conducting UX research with our clientele, hoping to gain more insight as to what works with our frontend, and what does not. In addition, I will work on rebuilding the frontend using ReactJS.
 
 Tech Stack:
 HTML
